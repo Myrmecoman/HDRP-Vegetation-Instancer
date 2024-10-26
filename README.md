@@ -42,8 +42,6 @@ Additionaly you can see it on this page : https://docs.google.com/document/d/1z-
 
 Support large objects with colliders ?   
 
-## Show appreciation
+## Futur support
 
-If you are satisfied with this asset and would like to support me, I have setup a patreon at this link : https://patreon.com/UnityGPUProceduralVegetationInstancer?utm_medium=clipboard_copy&utm_source=copyLink&utm_campaign=creatorshare_creator&utm_content=join_link
-
-Thanks !    
+Developpement of this asset is currently halted. You can still ask me for more infos on how it works if you plan to fork and expand it's features though.
